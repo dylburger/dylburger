@@ -1,6 +1,6 @@
 Founder and Engineer at [Pipedream](https://pipedream.com).
 
-I blog on DEV. Check out my most recent post:
+I blog on [DEV](http://dev.to/). Check out my most recent post:
 
 <!-- dev -->
 <!-- devend -->
