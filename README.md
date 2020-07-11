@@ -5,3 +5,5 @@ I blog on [DEV](http://dev.to/). Check out my most recent post:
 <!-- devend -->
 
 Use [this Pipedream workflow](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme) to track your Github profile views:
+
+![counter](https://en77c11f84opae9.m.pipedream.net)
