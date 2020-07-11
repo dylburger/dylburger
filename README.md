@@ -1,8 +1,6 @@
 I blog on [DEV](http://dev.to/). Check out my most recent post:
 
-<!-- dev -->
-[The simplest way to run Node.js code on a schedule](https://dev.to/dylburger/the-simplest-way-to-run-node-js-code-on-a-schedule-589i)
-<!-- devend -->
+<!-- dev --> [Publish DEV articles from a Git repo, with Github + Pipedream](https://dev.to/dylburger/publish-dev-articles-from-a-git-repo-with-github-pipedream-505j) <!-- devend -->
 
 Use [this Pipedream workflow](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme) to track your Github profile views:
 
