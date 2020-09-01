@@ -5,7 +5,7 @@ Founder and Engineer at [https://pipedream.com](https://pipedream.com).
 I blog on [DEV](http://dev.to/). Check out my most recent post:
 
 <!-- dev -->
-[Show your most recent DEV post on your Github profile with Pipedream](https://dev.to/dylburger/show-your-most-recent-dev-post-on-your-github-profile-with-pipedream-21h5)
+[Publish DEV articles from a Git repo, with Github + Pipedream](https://dev.to/dylburger/publish-dev-articles-from-a-git-repo-with-github-pipedream-505j)
 <!-- devend -->
 
 ## Profile counter
