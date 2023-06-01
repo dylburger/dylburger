@@ -5,7 +5,7 @@ Founder and Engineer at [https://pipedream.com](https://pipedream.com).
 I blog on [DEV](http://dev.to/). Check out my most recent post:
 
 <!-- dev -->
-[Personal Support at Internet Scale](https://dev.to/dylburger/personal-support-at-internet-scale-36i7)
+[Airflow is overkill](https://dev.to/dylburger/airflow-is-overkill-1ge)
 <!-- devend -->
 
 ## Profile counter
