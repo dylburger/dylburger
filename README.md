@@ -5,7 +5,7 @@ Founder and Engineer at [https://pipedream.com](https://pipedream.com).
 I blog on [DEV](http://dev.to/). Check out my most recent post:
 
 <!-- dev -->
-[Analyzing Github Issue Reactions](https://dev.to/dylburger/analyzing-github-issue-reactions-13p4)
+[Airflow is overkill](https://dev.to/dylburger/airflow-is-overkill-1ge)
 <!-- devend -->
 
 ## Profile counter
