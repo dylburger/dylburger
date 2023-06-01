@@ -5,7 +5,7 @@ Founder and Engineer at [https://pipedream.com](https://pipedream.com).
 I blog on [DEV](http://dev.to/). Check out my most recent post:
 
 <!-- dev -->
-[Archiving Slack threads to Discourse with GPT-3](https://dev.to/dylburger/archiving-slack-threads-to-discourse-with-gpt-3-26h0)
+[Personal Support at Internet Scale](https://dev.to/dylburger/personal-support-at-internet-scale-36i7)
 <!-- devend -->
 
 ## Profile counter
