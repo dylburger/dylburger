@@ -5,7 +5,7 @@ Founder and Engineer at [https://pipedream.com](https://pipedream.com).
 I blog on [DEV](http://dev.to/). Check out my most recent post:
 
 <!-- dev -->
-[Build workflows faster with AI](https://dev.to/dylburger/build-workflows-faster-with-ai-1dp9)
+[Build your own chat bot with OpenAI and Pipedream](https://dev.to/dylburger/build-your-own-chat-bot-with-openai-and-pipedream-299m)
 <!-- devend -->
 
 ## Profile counter
